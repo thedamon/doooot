@@ -1,0 +1,30 @@
+{
+  "name": "doooot",
+  "version": "0.0.1",
+  "description": "Aa simple app that tries to keep you on track by periodically reminding you what you should be working on",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedamon/doooot.git"
+  },
+  "keywords": [
+    "task",
+    "focus",
+    "todo",
+    "utility",
+    "desktop",
+    "electron"
+  ],
+  "author": "Damon Muma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thedamon/doooot/issues"
+  },
+  "homepage": "https://github.com/thedamon/doooot#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.0"
+  }
+}
